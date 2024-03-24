@@ -1,0 +1,3 @@
+get http://localhost:3000/todos/
+###
+get http://localhost:3000/todos/?priority=HIGH&status=IN%20PROGRESS
